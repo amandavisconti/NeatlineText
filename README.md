@@ -1,3 +1,13 @@
+# Notes
+This is a fork of the scholarslab/NeatlineText repo for my early work learning about Neatline, Neatline Text, and Omeka S.
+
+I am using issues to map out my work.
+
+Once I feel confident enough about understanding NeatlineText to begin earnest work on getting it working with Omeka S (and doing any subsequent improvement work), I'll move this work to a branch of the scholarslab/NeatlineText repo.
+
+
+*Below is the README text from the master NeatlineText repo:*
+
 # [NeatlineText][plugin]
 
 **NeatlineText** is a extension to the Neatline plugin that makes it possible to connect paragraphs, sentences, and words in text documents with annotations in Neatine exhibits.
