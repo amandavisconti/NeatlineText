@@ -1,7 +1,7 @@
 # Notes
 This is a fork of the scholarslab/NeatlineText repo for my early work learning about Neatline, Neatline Text, and Omeka S.
 
-I am using issues to map out my work.
+I am using [issues](https://github.com/amandavisconti/NeatlineText/issues) to map out my work.
 
 Once I feel confident enough about understanding NeatlineText to begin earnest work on getting it working with Omeka S (and doing any subsequent improvement work), I'll move this work to a branch of the scholarslab/NeatlineText repo.
 
